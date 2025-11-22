@@ -39,6 +39,7 @@ dataSet[dataSetVersion].options = [
       { name: "Wily Beast and Weakest Creature", tooltip: "17 - Kikeijuu", key: "WBaWC" },
       { name: "Unconnected Marketeers", tooltip: "18 - Kouryuudou", key: "UM" },
       { name: "Unfinished Dream of All Living Ghost", tooltip: "19 - Juuouen", key: "udoalg" },
+      {name: "Fossilized Wonders", tooltip: "20 - Kinjoukyou", key: "FW" },
     ]
   },
   {
@@ -1490,6 +1491,60 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: ["book"],
       stage: [],
+      nameless: false
+    }
+  },
+  {
+    name: "Ubame Chirizuka",
+    img: "luJUNlg.png",
+    opts: {
+      series: ["FW"],
+      stage: ["st1"],
+      nameless: false
+    }
+  },
+  {
+    name: "Chimi Houjuu",
+    img: "mI0zFbo.png",
+    opts: {
+      series: ["FW"],
+      stage: ["st2"],
+      nameless: false
+    }
+  },
+  {
+    name: "Nareko Michigami",
+    img: "dxLffNz.png",
+    opts: {
+      series: ["FW"],
+      stage: ["st3"],
+      nameless: false
+    }
+  },
+  {
+    name: "Yuiman Asama",
+    img: "o3yR2GS.png",
+    opts: {
+      series: ["FW"],
+      stage: ["st4"],
+      nameless: false
+    }
+  },
+  {
+    name: "Ariya Iwanaga",
+    img: "QnIUuy6.png",
+    opts: {
+      series: ["FW"],
+      stage: ["st6"],
+      nameless: false
+    }
+  },
+  {
+    name: "Nina Watari",
+    img: "6EPNkdt.png",
+    opts: {
+      series: ["FW"],
+      stage: ["ex"],
       nameless: false
     }
   }
