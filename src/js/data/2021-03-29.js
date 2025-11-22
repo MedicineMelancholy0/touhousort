@@ -1547,5 +1547,21 @@ dataSet[dataSetVersion].characterData = [
       stage: ["ex"],
       nameless: false
     }
+  },
+  {
+    name: "Jacket Girl",
+    img: "DzZJTTh.png",
+    opts: {
+      series: ["book"],
+      nameless: false
+    }
+  },
+  {
+    name: "Label Girl",
+    img: "XTs3RtP.png",
+    opts: {
+      series: ["book"],
+      nameless: false
+    }
   }
 ];
